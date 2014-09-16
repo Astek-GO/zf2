@@ -138,6 +138,7 @@ abstract class AbstractHelper extends BaseAbstractHelper
         'xml:base'           => true,
         'xml:lang'           => true,
         'xml:space'          => true,
+        'placeholder'        => true, // I know that it's wrong, but I need it !
     );
 
     /**
